@@ -7,3 +7,10 @@ def greeting():
 
 
 print("hello world my name is vinothan NC")
+
+
+print("masfsadfsadfsadf")
+
+print("asdfsadfsadfsadfdsaf")
+
+print("dfasdfasdfasdfdsafd")
