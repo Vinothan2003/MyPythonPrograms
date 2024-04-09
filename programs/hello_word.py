@@ -14,3 +14,10 @@ print("masfsadfsadfsadf")
 print("asdfsadfsadfsadfdsaf")
 
 print("dfasdfasdfasdfdsafd")
+
+# 1 - changes
+print("asdfsadfsadfasdfsafdsaf")
+
+print("sdfsdafsadfsadfasfasfasdf")
+
+print("dsfsafsadfdsfadfsadfasddfsadfsad")
