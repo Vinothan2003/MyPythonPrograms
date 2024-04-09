@@ -32,3 +32,9 @@ print("sadfasddfsadfsadfdsafdsa")
 print("sfsafsafsdafsdafsdafa")
 
 print("sfsafasfqewrdsfsdf")
+
+# 3 - changes
+
+print("sfsdfasdfsaf")
+
+print("asdfsadfsadfasd")
